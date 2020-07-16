@@ -32,15 +32,15 @@
         <div class="body">
           <div class="left">
             <p>{{ data.profile }}</p>
+            <h3>Achievement Summary</h3>
+            <div class="achievement-item" v-for="a in data.achievements">
+              <h4>{{ a }}</h4>
+            </div>
             <h3>Education</h3>
             <div class="education-item" v-for="e in data.education">
               <h4>{{ e.title }}</h4>
               <h6>{{ e.subtitle }}</h6>
               <h6>{{ e.institution }}</h6>
-            </div>
-            <h3>Achievement Summary</h3>
-            <div class="achievement-item" v-for="a in data.achievements">
-              <h4>{{ a }}</h4>
             </div>
             <h3>Technical Skills</h3>
             <h6>Click on a skill to highlight the relevant work experience</h6>
