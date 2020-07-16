@@ -336,3 +336,8 @@ a {
     transform-origin: bottom left;
     transform: rotate(45deg);
 }
+.achievement-item 
+    {
+    color: #777;
+    font-size: .9rem;
+}
