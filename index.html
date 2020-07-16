@@ -34,7 +34,9 @@
             <p>{{ data.profile }}</p>
             <h3>Achievement Summary</h3>
             <div class="achievement-item" v-for="a in data.achievements">
-              <h4>{{ a }}</h4>
+              <ul class="check-list">
+                <li>{{a}}</li>
+              </ul>
             </div>
             <h3>Education</h3>
             <div class="education-item" v-for="e in data.education">
