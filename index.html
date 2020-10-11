@@ -87,7 +87,7 @@
               :class="{'card-wrapper': true, 'raised' : isRaised(job)}"
               v-for="(job,i) in data.experience.list"
             >
-              <div class="card collapsed" :id="`card-${i}`">
+              <div class="card" :id="`card-${i}`">
                 <div class="title">
                   <h3 style="margin-bottom: 0.1rem">{{ job.role }}</h3>
                   <small>{{ job.start }} - {{ job.end }}</small>
