@@ -15,24 +15,33 @@
                 "end": "Present",
                 "role": "Head of Data and Automation",
                 "responsibilties": [
-                                    "Build an optimal customer analytics strategy and a well defined roadmap for customer data, infrastructure and analytics to power growth in digital sales whilst adding value",
-                                    "Combine disparate sources of data to create a holistic view of the customer including tracking and analysing online and offline platforms",
-                                    "Hire and build advanced analytics capabilities to support the customer analytics program, including investment in predictive machine learning and data science capabilities. Including assessment of internal vs external capability",
-                                    "Mentor and develop internal talent, so they grow as the company grows", 
-                                    "Develop a strategy to capture, maintain and retain organisational knowledge",
-                                    "Engage external consultancies and companies where appropriate to ensure that the technical capability gaps internally are filled",
-                                    "Work with the executive leadership team to deliver a single view of the customer journey including acquisition, retention and aftersales",
-                                    "Apply advanced analytics to understand Inchcape customers;  increase sales, retention and repurchase",
-                                    "Manage the end to end customer analytics program from a budget point of view, ensuring the business cases and ROI for spend makes sense",
-                                    "Set up and lead the RPA team to introduce automation and efficiencies throughout the business, including deciding on Vendor, preparing the roll out strategy and actioning the strategy into go live"
-
+                    "Provide analysis and analytics, including ML to enable revenue growth and cost reduction"
+                    ,"Unify and Standardise financial, operational, external, management data structures and systems across all departments & brands"
+                    ,"Develop, implement and roll out regional Business Intelligence, advanced analytics and data strategy"
+                    ,"Lead the Business Intelligence team for inchcape globally to provide insights and analytics to enable and support key business decision making across all departments"
+                    ,"Provide strategic initiatives & guidance through insights and modelling including competitor, economic and geographical analysis"
+                    ,"Set up and lead the RPA team to introduce automation and efficiencies throughout the business, including deciding on Vendor, preparing the roll out strategy and actioning the strategy into go live"
+                    ,"Roll out SAP locally as the operational and finance lead  for Subaru Australia and Trivett Automotive Retail, working with the global team and local teams to make sure that it is a scalable product that can be taken to other markets and can fit in with the BI strategy as well as the global systems implementation strategy"
+                    ,"Streamline and improve business processes by utilising technology and efficient workflows"
+                    ,"Business partner with operations, sales, marketing, general accounting, tax and legal to achieve business results and hit set forecasts"
+                    ,"Lead quarterly forecasting and budgeting cycles as well as Weekly forecast, ensuring accuracy and commentary with analysis on variances to actuals"
+                    ,"Provide mentorship, develop career and training plans for the team"
+                    ,"Reduced manual touch points for business processes "
+                    ,"Manage cash flow for the group and the business units"                    
                 ],
                 "achievements": [
-                    "Successfully created and actioned the customer analytics strategy &  roadmap; through creating  a high performing team and culture of innovation in the data and automation team",
-                    "Increased online direct sales by 32% YoY during COVID-19 through effective  lead acquisition and brand awareness analytics through market trend analysis, lookalike based targeting for prospective customers, content personalisation for Inchcape websites, campaign effectiveness and bidding strategy optimisation",
-                    "Created the Customer Lifetime Value (CLTV) prediction model, which let the business see the impacts certain stages of the customer journey have on the final return from a customer",
-                    "Created Upsell / Cross sell modeling which let the business utilise the aftersales and new customers that were the most likely to be upsold based on the lead journey they followed to the vehicle order or service booking",
-                    "Trained a neural network AI to identify positive and negative expressions in tweets. It then labels the tweets as overall positive/negative/neutral/irrelevant, to track brand loyalty and ad effectiveness based on customer sentiment across all brands"
+                    "Automated reporting using BI technology from SAP HANA, Webi & Power BI and insights delivered in real time to key stakeholders through Azure Databricks, Data factory and Synapse"
+                    ,"Integral lead in business transformation, introducing technology in order to automate and streamline processing and shift the business away from manual processing of data to garnering meaning and insights from data and creating efficient processes to enable time saving for employees. "
+                    ,"As part of transformation successfully introduced and integrated data frameworks for multiple systems in the form of SAP BPC, Alteryx, Blackline, COUPA, Concur, Power BI, UiPath"
+                    ,"RPA setup for Accounts Receivable, payable and Treasury. Strategy built and best practices laid out, including governance and controls for audit, control and compliance purposes"
+                    ,"Created high performing data, automation and insights teams built from the ground up, including recruiting, training, and upskilling"
+                    ,"Everything delivered from architecture to proof of concept for a cloud based solution to manage customer interactions with the Retail business"
+                    ,"Commissions portal developed to aid payroll in managing and updating the commissions structures for salesman payout. Includes loading of data, automatically calculating a payout figure based on the matrix as well as approval mechanism to capture and meet the controls framework and audit requirements"
+                    ,"Developed a dashboard that merged online analytics (Google, facebook, instagram) with financial and operational, foot traffic data to create effectiveness of campaigns and ROI"
+                    ,"Trained a machine learning algorithm to predict the optimum inventory level in order to lower the amount of time vehicles spend in the dealership. Using python, and scikit-learn; and order take, enquiry, leads, previous history on shape changes data, popularity of colour to predict"
+                    ,"Trained a neural network AI to identify positive and negative expressions in tweets. It then labels the tweets as overall positive/negative/neutral/irrelevant, to track brand loyalty and ad effectiveness based on customer sentiment across all brands"
+                    ,"Group consolidation automated through technology to deliver a seamless and integrated forecasting process for the Australasia Business units which encompasses automated actuals loads and submission to the UK group through SAP BPC"
+
                 ],
                 "skills-used": ["Python","SAP HANA", "SAP BW","Google Analytics","Advanced Excel","VBA","Macros","Microsoft Suite", "SQL","HTML","Javascript","PowerBI","UiPath","Automation Anywhere", "SAP Webi", "SAP BPC", "MPC","Alteryx"]
             },
@@ -230,14 +239,14 @@
         ]
     },
     "achievements": [
-        "Mentored and built high performing teams and built a culture of innovation ",
-"Developed  and executed the strategy for Customer analytics, Robotic Process Automation (RPA) and Business Intelligence (BI)",
-"Led a strategic initiative that delivered an increase of online direct sales by 32% YoY during H1-2020",
-"Led the training of a neural network AI to identify positive and negative expressions in tweets, to track brand loyalty and ad effectiveness based on customer sentiment",
-"Rolled out multiple system implementations ",
-"Successfully led and executed  business & financial data transformation ",
-"Strong business partner to  sales, marketing, operations, general accounting, tax and legal",
-"Introduced process improvements and efficiencies in every role"
+        "Developed  and executed the strategy for Data Curation, engineering, governance as well as Robotic Process Automation (RPA), Machine Learning (ML) and Business Intelligence (BI)"
+,"Create high performing Data, Automation and Insights functions"
+,"Provided insights and strategy to the senior leadership team"
+,"Successfully transitioned the company to the Azure technology stack"
+,"Trained ML algorithms to enable revenue growth and cost reductions, through better inventory management and stronger funneling of leads"
+,"Helped the business utilise self serve BI and using data to enable better decision making"
+,"Successfully led and executed business & financial data transformation "
+,"Introduced process improvements and efficiencies in every role"
 
     ],
     "education": [
