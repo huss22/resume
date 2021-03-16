@@ -15,7 +15,10 @@
                 "end": "Present",
                 "role": "Head of Data and Automation",
                 "responsibilties": [
-                    "Provide analysis and analytics, including ML to enable revenue growth and cost reduction"
+                    "Create the strategy and roadmap for an environment that makes data and information accessible to all departments and personnel across the business. "
+                    ,"Provide expertise and consult on all major data-related initiatives inclusive of personnel recruiting, development, and retention within the business."
+                    ,"Create and sustain a vibrant data organization, technologies, processes, and policies within the department and across the business."
+                    ,"Provide analysis and analytics, including ML to enable revenue growth and cost reduction"
                     ,"Unify and Standardise financial, operational, external, management data structures and systems across all departments & brands"
                     ,"Develop, implement and roll out regional Business Intelligence, advanced analytics and data strategy"
                     ,"Lead the Business Intelligence team for inchcape globally to provide insights and analytics to enable and support key business decision making across all departments"
@@ -27,7 +30,8 @@
                     ,"Lead quarterly forecasting and budgeting cycles as well as Weekly forecast, ensuring accuracy and commentary with analysis on variances to actuals"
                     ,"Provide mentorship, develop career and training plans for the team"
                     ,"Reduced manual touch points for business processes "
-                    ,"Manage cash flow for the group and the business units"                    
+                    ,"Manage cash flow for the group and the business units"
+                 
                 ],
                 "achievements": [
                     "Automated reporting using BI technology from SAP HANA, Webi & Power BI and insights delivered in real time to key stakeholders through Azure Databricks, Data factory and Synapse"
