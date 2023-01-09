@@ -2,9 +2,40 @@
     "name": "Huss Afzal",
     "number": "0413-343-420",
     "email": "me@hafzal.com",
-    "profile": "An accomplished reporting and analytics leader with over 12 years of experience in broad industries, ranging from Digital Advertising, Travel, Media, Digital Cinema and FMCG.  A proactive team player with strong communication, system, technical and problem solving skills, with the ability to think outside the box and provide solutions that exceed business expectations. Promoted internally in every company.",
-    "experience": {
+    "profile": "Highly experienced Director of Data with a proven track record of success in steering growth strategies and optimizing for profitability. Strong background in data analysis and leading data teams, including analytics, data science, automation, data product management, and data engineering. Collaborative leader with experience in building holistic and sustainable marketing, growth, and data strategies.": {
         "list": [
+    {
+                "company": {
+                    "name": "Deputy",
+                    "location": "Sydney",
+                    "description": "Developer of a workforce management platform designed to simplify employee scheduling, timesheets, tasking, and communication. The company's platform provides work scheduling and people management skills by eliminating manual processes and paper-based systems along with social and mobile technologies at its core, enabling businesses to save time and money by empowering managers and employees to work fast and smart with intelligent work scheduling, timesheet management, and communication tools."
+                },
+                "start": "February 2022",
+                "end": "Present",
+                "role": "Data Director",
+                "responsibilties": [
+                 
+                ],
+                "achievements": [
+                    "Reduced marketing spend by 70% with a 6% increase in conversions, due to optimisation of marketing strategies",
+                    "Optimised existing customer base contracts by offering guaranteed annual contracts to specific customers instead of monthly rates, increasing annual recurring revenue by 24%",
+                    "Rolled out price increase to the customer base by doing sensitivity analysis and external benchmarking to determine overall effectiveness. Increasing existing revenue by 16%",
+                    "Delivered a 100% engagement score for the data team, an increase of 74% in 12 months",
+                    "Led the execution of multiple A:B testing results to improve customer NPS",
+                    "Introduced data strategies for the roll out of new product offerings, including experimentation framework to improve the product and increase conversion",
+                    "Introduced data science models to predict churn and user expansion opportunities",
+                    "Lead the roll out of dbt for the transformation layer, creating highly reliable data",
+                    "Built an enterprise grade data model",
+                    "Worked closely with the senior leadership team to plan, develop, coordinate and execute data and commercial strategies.",
+                    "Developed new data products that improved ROI for the various cross functional initiatives",
+                    "Created and executed the data strategy, set the roadmap for data engineering, analytics and data science",
+                    "Led the integration of the analytics warehouse with core systems to enable single source of truth and optimise calculation",
+                    "Setup automatic operational and warehouse alerting to notify and mitigate any large spends in inefficient queries"
+                 
+
+                ],
+                "skills-used": []
+            },
             {
                 "company": {
                     "name": "Inchcape plc",
@@ -12,7 +43,7 @@
                     "description": "Inchcape plc (LSE: INCH) is a British multinational automotive distribution, retail and services company headquartered in London, United Kingdom. An outgrowth of Calcutta-based Mackinnon Mackenzie Company, Inchcape has operations in 32 countries across Asia, Australia, Europe, Africa and South America. Inchcape is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index."
                 },
                 "start": "October 2019",
-                "end": "Present",
+                "end": "January 2022",
                 "role": "Head of Data and Automation",
                 "responsibilties": [
                     "Create the strategy and roadmap for an environment that makes data and information accessible to all departments and personnel across the business. "
